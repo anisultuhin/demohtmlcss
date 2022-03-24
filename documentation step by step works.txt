@@ -1,0 +1,4 @@
+1st I wrote html codes and kept in index.html
+2nd I wrote css codes and kept in Css Folder and then I have kept in style.css file
+
+3rd working on Github
